@@ -1,8 +1,8 @@
 <h1 align="center">Olá! Eu sou o Luis Felipe 👋</h1>
 
 <p align="center">
-Sou um estudante de Engenharia de Computação com interesse em <strong>desenvolvimento de software, algoritmos, Java, C e estrutura de dados</strong>.  
-Apaixonado por resolver problemas, aprender novas tecnologias e trabalhar em projetos práticos que desafiem meu raciocínio lógico.
+Sou um estudante de Engenharia de Computação com interesse em <strong>desenvolvimento de software, bancos de dados e estruturas de dados</strong>.  
+Tenho paixão por resolver problemas, aprender novas tecnologias e aplicar conceitos de programação na prática.
 </p>
 
 ---
@@ -43,11 +43,12 @@ Apaixonado por resolver problemas, aprender novas tecnologias e trabalhar em pro
 ### 📫 Contato
 
 <div align="center">
-  <a href="felimar2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/luisfeliperamalhoc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:felimar2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luisfeliperamalhoc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
 
 <p align="center">✨ Perfil em constante aprendizado e evolução. Obrigado por visitar!</p>
+
 
