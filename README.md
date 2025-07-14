@@ -19,6 +19,7 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e aplicar conce
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
 ---
 
 ### 💻 Projetos em Destaque
