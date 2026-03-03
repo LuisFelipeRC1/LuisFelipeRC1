@@ -34,12 +34,10 @@ Tenho paixão por resolver problemas, aprender novas tecnologias e aplicar conce
 
 ### 📈 Estatísticas
 
-<p align="center">
-  <a href="https://github.com/LuisFelipeRC1">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFelipeRC1&show_icons=true&theme=radical&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeRC1&layout=compact&langs_count=7&theme=radical" />
-  </a>
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisFelipeRC1&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeRC1&layout=compact&langs_count=7&theme=radical" />
+</div>
 
 ---
 
